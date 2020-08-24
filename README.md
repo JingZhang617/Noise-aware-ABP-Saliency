@@ -1,5 +1,6 @@
 # Noise-aware-ABP-Saliency
 Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection
+![alt text](./eccv_overview.png)
 
 ## Saliency Maps
 We provide saliency map on eight saliency dataset, including DUT, DUTS, ECSSD, HKU-IS, MSRA-B, THUR, PASCAL-S and SOD.
