@@ -7,3 +7,10 @@ We provide saliency map on eight saliency dataset, including DUT, DUTS, ECSSD, H
 
 Please download our saleincy map from:
 https://drive.google.com/file/d/1uyVkJcTw-2C60nJs2Czt_QoJ-_Z20YBh/view?usp=sharing
+
+## Training Dataset
+We use DUTS (http://saliencydetection.net/duts/) as our training dataset, and compute saliency maps using three different conventional saliency detection methods: RBD (Saliency optimization from robust backgrounddetection), MR (aliency detection via graph-based  manifold  ranking) and GS (eodesic saliency using background priors), and treat them as "noisy label".
+
+Please find the noisy saliency map from:
+
+
