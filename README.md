@@ -14,4 +14,8 @@ We use DUTS (http://saliencydetection.net/duts/) as our training dataset, and co
 Please find the noisy saliency map from:
 https://drive.google.com/file/d/1S0tAG63xMxOnnBPq5aNfE5dYXTTM6kgJ/view?usp=sharing
 
+## Performance
+We show the E-measure and F-measure curves on six benchmark dataset as below:
+
+
 
